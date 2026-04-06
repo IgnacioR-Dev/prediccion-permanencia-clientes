@@ -18,11 +18,13 @@ Este proyecto desarrolla un modelo de machine learning orientado a la detección
 ---
 
 ## 📂 Estructura del repositorio (se debe actualizar en conjunto con las implementaciones)
+
+```
 prediccion-churn/
 ├── README.md
 ├── docs/
 │   └── diseño_tecnico.pdf
-
+```
 ---
 
 ## Cómo ejecutar el sistema (se detallará una vez implementado el pipeline)
