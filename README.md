@@ -138,7 +138,7 @@ docker-compose down -v
 - Generación de reporte detallado de calidad de datos
 
 ### Próximas etapas
-- Etapa 2: Transformación de datos (se contempla feature engineering)
+- Etapa 2: Limpieza y transformación de datos (se contempla feature engineering)
 - Etapa 3: Entrenamiento del modelo
 - Etapa 4: Visualización con Metabase
 
